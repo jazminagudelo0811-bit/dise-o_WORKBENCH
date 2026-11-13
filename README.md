@@ -5,7 +5,7 @@ Este proyecto representa la creación de una base de datos relacional con dos ta
 - `departamento`
 - `empleado`
 
-La relación entre ambas es de tipo 1:N, donde un departamento puede tener muchos empleados, y cada empleado pertenece a un único departamento.
+La relación entre ambas es de tipo 1:N, donde un departamento puede tener muchos empleados, y cada empleado pertenece a un único departamento:
 
 ## 1. Diseño de la tabla `departamento`
 
@@ -34,8 +34,8 @@ En esta segunda vista se modela la tabla `empleado`, con los campos:
 
 La relación se define como una asociación de uno a muchos:
 
-- Un departamento puede estar relacionado con varios empleados
-- Cada empleado pertenece a un departamento
+- Un departamento puede estar relacionado con varios empleados.
+- Cada empleado pertenece a un departamento.
 
 ![Relación 1:N](./images/03-relacion-1n.png)
 
