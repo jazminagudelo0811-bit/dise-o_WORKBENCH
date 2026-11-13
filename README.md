@@ -1,5 +1,7 @@
 # Base de datos: Departamento y Empleado
 
+DISEÑO LOGICO 
+
 Este proyecto representa la creación de una base de datos relacional con dos tablas principales:
 
 - `departamento`
